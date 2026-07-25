@@ -1,0 +1,6 @@
+ActivityId,CustomerId,Email,ActivityDate,ActivityType,ProductName
+A001,C001,amy.wilson@example.com,2026-07-02,Product Viewed,Solar Battery Plan
+A002,C001,amy.wilson@example.com,2026-07-02,Added To Cart,Solar Battery Plan
+A003,C002,raj.mehta@example.com,2026-07-02,Product Viewed,Electrical Safety Check
+A004,C002,raj.mehta@example.com,2026-07-02,Added To Cart,Electrical Safety Check
+A005,C003,sarah.lee@example.com,2026-07-02,Added To Cart,Compliance Package

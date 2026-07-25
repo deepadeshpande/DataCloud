@@ -1,0 +1,2 @@
+OrderId,CustomerId,Email,OrderDate,ProductName,OrderAmount,OrderStatus
+O001,C002,raj.mehta@example.com,2026-07-02,Electrical Safety Check,350,Completed

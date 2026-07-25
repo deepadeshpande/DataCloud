@@ -1,0 +1,4 @@
+CustomerId,FirstName,LastName,Email,Phone,City,ConsentEmail
+C001,Amy,Wilson,amy.wilson@example.com,0400000001,Melbourne,true
+C002,Raj,Mehta,raj.mehta@example.com,0400000002,Sydney,true
+C003,Sarah,Lee,sarah.lee@example.com,0400000003,Brisbane,false
